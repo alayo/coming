@@ -1,0 +1,22 @@
+{
+	"headerText": "Change Language",
+	"welcome": "Welcome",
+	"title": "CapXCloud",
+	"logo": "Logo",
+	"ticker": "Our website in under construction",
+	"mainMessage": "Coming Soon",
+	"description": "The most advanced commercial real estate platform on the market",
+	"buttonText": "NOTIFY ME",
+	"placeholder": "Enter email address",
+	"not_found": "404 - Page Not Found",
+	"copyrightText": "Copyright 2022 by CapXCloud, Inc. All rights reserved",
+	"languageText": "Language ",
+	"languageName": "English",
+	"successMsg": "Thank you for the submission",
+	"errorMsg": "Oops!!Something went wrong.",
+	"days": "days",
+	"hours": "hours",
+	"minutes": "minutes",
+	"seconds": "seconds",
+	"demoTxt": "DEMOS"
+}
