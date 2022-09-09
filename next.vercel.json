@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "deadline",
+  "name": "CapXCloud",
   "builds": [
     {
       "src": "/nextjs/package.json",

@@ -1,5 +1,5 @@
 import styled, { keyframes } from 'styled-components';
-import BG from '../static/images/eightteen/bg.png';
+
 import { createGlobalStyle } from 'styled-components';
 
 export const ModalStyle = createGlobalStyle`
@@ -93,7 +93,7 @@ const MainContentWrapper = styled.section`
   min-height: 100vh;
   overflow: hidden;
   flex-grow: 1;
-  background-image: url(${BG});
+
   background-repeat: no-repeat;
   background-position: center bottom;
   background-size: cover;
